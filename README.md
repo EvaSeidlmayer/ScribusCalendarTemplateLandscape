@@ -7,7 +7,8 @@ The template I created might be not super elaborated, but it's a starting point 
 
 I did the week days and ordinal series in serveral text boxes by purpose. 
 
-# Technical details
+# Technical detail
+- for Scribus 1.5.5
 - format: A4 300mm x 213mm (A4: 297mm x 210mm + bleed for cutting)
 - additional bleed for cutting: 3 mm 
 - direction: landscape
