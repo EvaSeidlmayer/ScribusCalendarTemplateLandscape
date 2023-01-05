@@ -5,7 +5,15 @@ When I accepted to layout a calendar for some refugee support group, I could not
 
 The template I created might be not super elaborated, but it's a starting point if you have a similar task. 
 
-I did the week days and ordinal series in serveral text boxes by purpose. 
+
+#Technical details 2023-version
+- for Scribus 1.5.5
+- format: A4 300mm x 213mm (A4: 297mm x 210mm + 3mm bleed for cutting)
+- direction: landscape
+- number of pages: 13pages double-sided (12 month, 1 titles page)
+- up: image; botton: calendarium
+- we added more days of rememberance (including "System Administrator Appreciation Day" :) )
+
 
 # Technical details Version 2022
 - for Scribus 1.5.5
