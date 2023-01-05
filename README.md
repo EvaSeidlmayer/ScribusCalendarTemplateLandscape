@@ -7,6 +7,7 @@ The template I created might be not super elaborated, but it's a starting point 
 
 
 # Technical details 2023-version
+- file name: 2022-10_Kalender-2023.sla
 - for Scribus 1.5.5
 - format: A4 300mm x 213mm (A4: 297mm x 210mm + 3mm bleed for cutting)
 - direction: landscape
